@@ -4,7 +4,7 @@ project outcomes and guidlines from the GIG network
 
 # Projects and initiatves
 - PeaceHackCamp https://peacehackcamp.net/
-- #defyhatenow https://defyhatenow.net/. | Field Guide
+- #defyhatenow https://defyhatenow.net/ | [Social Media Hate Speech Mitigation Field Guide [Version 1.0 May 2018]](https://defyhatenow.net/field-guide/)
 
 
 # Is Peace a commons?
